@@ -1,0 +1,14 @@
+com\example\books\service\BookServiceImpl.class
+com\example\books\BooksApplication.class
+com\example\books\model\Role.class
+com\example\books\controller\UserController.class
+com\example\books\model\Book.class
+com\example\books\controller\BookController.class
+com\example\books\service\BookService.class
+com\example\books\service\UserServiceImpl.class
+com\example\books\model\User.class
+com\example\books\repository\UserRepository.class
+com\example\books\repository\BookRepository.class
+com\example\books\exception\DuplicateEntryException.class
+com\example\books\service\UserService.class
+com\example\books\exception\ResourceNotFoundException.class
